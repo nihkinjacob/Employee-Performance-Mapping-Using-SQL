@@ -1,3 +1,5 @@
+# Employee Performance Mapping Using SQL
+
 # Project Overview
 This project focuses on analyzing the employee database of ScienceQtech, a growing startup in the Data Science field, to support the Human Resources (HR) department in their year-end appraisal process. Using SQL, the project involved extracting insights from employee data, optimizing database performance, and generating reports to assist in decision-making for salary adjustments, performance evaluations, and employee development programs.
 
